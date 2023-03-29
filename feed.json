@@ -1,0 +1,88 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "1HourGarageDoors",
+    "description": "",
+    "home_page_url": "https://hex20dec.github.io/1HourGarageDoors",
+    "feed_url": "https://hex20dec.github.io/1HourGarageDoors/feed.json",
+    "user_comment": "",
+    "icon": "https://hex20dec.github.io/1HourGarageDoors/media/website/1hourgaragedoors-2.svg",
+    "author": {
+        "name": "Talia"
+    },
+    "items": [
+        {
+            "id": "https://hex20dec.github.io/1HourGarageDoors/repairs.html",
+            "url": "https://hex20dec.github.io/1HourGarageDoors/repairs.html",
+            "title": "Repairs",
+            "author": {
+                "name": "Talia"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-29T11:53:39-04:00",
+            "date_modified": "2023-03-29T11:53:39-04:00"
+        },
+        {
+            "id": "https://hex20dec.github.io/1HourGarageDoors/request-service.html",
+            "url": "https://hex20dec.github.io/1HourGarageDoors/request-service.html",
+            "title": "Request Service",
+            "author": {
+                "name": "Talia"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-29T11:51:25-04:00",
+            "date_modified": "2023-03-29T11:51:25-04:00"
+        },
+        {
+            "id": "https://hex20dec.github.io/1HourGarageDoors/contact-us.html",
+            "url": "https://hex20dec.github.io/1HourGarageDoors/contact-us.html",
+            "title": "Contact Us",
+            "author": {
+                "name": "Talia"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-29T11:51:07-04:00",
+            "date_modified": "2023-03-29T11:51:07-04:00"
+        },
+        {
+            "id": "https://hex20dec.github.io/1HourGarageDoors/services.html",
+            "url": "https://hex20dec.github.io/1HourGarageDoors/services.html",
+            "title": "Services",
+            "author": {
+                "name": "Talia"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-29T11:50:59-04:00",
+            "date_modified": "2023-03-29T11:50:59-04:00"
+        },
+        {
+            "id": "https://hex20dec.github.io/1HourGarageDoors/about-us.html",
+            "url": "https://hex20dec.github.io/1HourGarageDoors/about-us.html",
+            "title": "About Us",
+            "author": {
+                "name": "Talia"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-29T11:50:43-04:00",
+            "date_modified": "2023-03-29T11:50:43-04:00"
+        },
+        {
+            "id": "https://hex20dec.github.io/1HourGarageDoors/brookville-new-york.html",
+            "url": "https://hex20dec.github.io/1HourGarageDoors/brookville-new-york.html",
+            "title": "Brookville, New York",
+            "summary": "Welcome to 1Hour Garage Doors, your go-to destination for professional garage door repairs in Brookville, New York. Our team of expert technicians is&hellip;",
+            "content_html": "<div class=\"flex-1 overflow-hidden\">\n<div class=\"react-scroll-to-bottom--css-fkrwt-79elbk h-full dark:bg-gray-800\">\n<div class=\"react-scroll-to-bottom--css-fkrwt-1n7m0yu\">\n<div class=\"flex flex-col items-center text-sm dark:bg-gray-800\">\n<div class=\"group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]\">\n<div class=\"text-base gap-4 md:gap-6 md:max-w-2xl lg:max-w-2xl xl:max-w-3xl p-4 md:py-6 flex lg:px-0 m-auto\">\n<div class=\"relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]\">\n<div class=\"flex flex-grow flex-col gap-3\">\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\n<p>Welcome to 1Hour Garage Doors, your go-to destination for professional garage door repairs in Brookville, New York. Our team of expert technicians is committed to providing top-notch service, ensuring that your garage door is working smoothly and efficiently.</p>\n<p>At 1Hour Garage Doors, we understand that a malfunctioning garage door can be a major inconvenience, causing unnecessary stress and frustration. That's why we offer fast, reliable repair services, ensuring that you can get back to your daily routine as soon as possible.</p>\n<p>Our technicians are highly skilled and experienced in all aspects of garage door repair. Whether you need a broken spring replaced, a malfunctioning opener repaired, or any other type of repair, we have the expertise to get the job done right the first time.</p>\n<p>At 1Hour Garage Doors, we take pride in providing exceptional customer service. We know that a satisfied customer is the key to our success, which is why we go above and beyond to ensure that our customers are happy with our work.</p>\n<p>In addition to our repair services, we also offer preventative maintenance services to help keep your garage door in top condition. Regular maintenance can help prevent costly repairs down the road and ensure that your garage door is operating safely and efficiently.</p>\n<p>If you're in need of garage door repairs in Brookville, New York, look no further than 1Hour Garage Doors. Contact us today to schedule an appointment and experience the difference that professional, reliable service can make!</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "author": {
+                "name": "Talia"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-29T11:47:37-04:00",
+            "date_modified": "2023-03-29T11:47:41-04:00"
+        }
+    ]
+}
